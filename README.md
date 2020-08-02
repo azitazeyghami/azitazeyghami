@@ -25,7 +25,7 @@
 <br />
 <br />
 
-#### Work Contributions:
+### Work Contributions:
 (unable to connect two accounts through github enterprise)
 
 ![alt WorkContributions](https://github.com/azitazeyghami/azitazeyghami/blob/master/WC.png)
