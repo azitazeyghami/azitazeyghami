@@ -29,6 +29,6 @@
 ### Work Contributions:
 (unable to connect two accounts through github enterprise)
 
-![alt WorkContributions](https://github.com/mtnbkazco/mtnbkazco/blob/master/WC.png)
+![alt WorkContributions](https://github.com/mtnbkazco/mtnbkazco/blob/master/WC11.png)
 
 
